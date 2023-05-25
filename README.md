@@ -3,6 +3,12 @@
 
 AutoCritique is a C++ application built with the QT Framework that allows multiple users to log into their accounts and rate multiple vehicles or write reviews about them. Users can also sort the vehicles based on their ratings, price, and launch date. They can also search for cars using specific keywords.
 
+
+
+https://github.com/lakshya7878/AutoCritique/assets/60431358/2f9064ae-6b63-4abe-b0f2-d2152db70184
+
+
+
 # Installation
 
 To use AutoCritique, you must have the QT Framework installed on your system. To install QT Framework, please refer to their official website for installation instructions. Once QT Framework is installed, clone this repository and build the application using your preferred C++ compiler.
